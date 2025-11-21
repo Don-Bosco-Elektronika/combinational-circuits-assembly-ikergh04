@@ -23,16 +23,14 @@ Simulate the assembly and verify the operation of the following integrated circu
 
 | **Gates** | **Imagen** |
 |-----------|------------|
-| **7447** → NAME?  | ![NAME?](imagen_xor.png) |
-| **7448** → NAME?  | ![NAME?](imagen_or.png) |
-| **4063** → NAME?  | ![NAME?](imagen_and.png) |
-| **74138** → NAME? | ![NAME?](imagen_not.png) |
-| **7490** → NAME?  | ![NAME?](imagen_nor.png) |
-| **7485** → NAME?  | ![NAME?](imagen_nand.png) |
-| **7483** → NAME?  | ![NAME?](imagen_not.png) |
-| **74147** → NAME? | ![NAME?](imagen_and.png) |
-| **74153** → NAME? | ![NAME?](imagen_and.png) |
-| **4051** → NAME?  | ![NAME?](imagen_and.png) |
+| **7447** → 7447   | [Captura de pantalla 2025-11-21 222409.png](Captura de pantalla 2025-11-21 222409.png) |
+| **74138** → 74138 | ![Captura de pantalla 2025-11-21 222435.png](Captura de pantalla 2025-11-21 222435.png) |
+| **7490** → 7490  | ![Captura de pantalla 2025-11-21 222505.png](Captura de pantalla 2025-11-21 222505.png |
+| **7485** → 7485  | ![Captura de pantalla 2025-11-21 222423.png](Captura de pantalla 2025-11-21 222423.png) |
+| **7483** → 7483  | ![Captura de pantalla 2025-11-21 222416.png](Captura de pantalla 2025-11-21 222416.png) |
+| **74147** → 74147 | ![Captura de pantalla 2025-11-21 222442.png](Captura de pantalla 2025-11-21 222442.png) |
+| **74153** → 74153 | ![Captura de pantalla 2025-11-21 224402.png](Captura de pantalla 2025-11-21 224402.png) |
+
 
 ---
 
